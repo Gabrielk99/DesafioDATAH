@@ -1,5 +1,5 @@
 # Desafio DATAH
-Para executar este teste clone este repositório e dentro do diretório execute este comando:
+Para a execução deste teste é necessário realiar o clone deste repositório, e dentro do diretório executar este comando:
 
 ```
 python/python2/python3 test.py
